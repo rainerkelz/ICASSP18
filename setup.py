@@ -16,6 +16,7 @@ setup(
         'lasagne',
         'madmom',
         'scikit-learn',
-        'matplotlib'
+        'matplotlib',
+        'tqdm'
     ]
 )
