@@ -1,7 +1,7 @@
 # ICASSP18
 
 Code to reproduce the experiments for the paper:
-
+```
 @inproceedings{kelz_icassp18,
   author    = {Rainer Kelz and Gerhard Widmer},
   title     = {Investigating Label Noise Sensitivity Of Convolutional Neural Networks For Fine Grained Audio Signal Labelling}
@@ -9,6 +9,7 @@ Code to reproduce the experiments for the paper:
                Processing, {ICASSP} 2018, Calgary, Alberta, Canada, April 15-20, 2018},
   year      = {2018}
 }
+```
 
 # Installation Instructions (some assembly required)
 All of the following assumes that you already properly set up your CUDA environment, and have working `numpy, scipy, theano, lasagne` installations.
